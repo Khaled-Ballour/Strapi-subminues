@@ -273,7 +273,6 @@ nav {
   justify-content: center;
 }
 .nav-center {
-  padding: 0 0 0 50px;
   width: var(--fluid-width);
   max-width: var(--max-width);
   display: flex;
